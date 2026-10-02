@@ -140,7 +140,6 @@ The final pipeline is wrapped in a small [Streamlit](https://streamlit.io) app s
 
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
-*(Screenshot above: replace* `dashboard_screenshot.png.HEIC` *with an actual screenshot of the running app, uploaded to this repository.)*
 
 ## Tech Stack
 
